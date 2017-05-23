@@ -42,6 +42,7 @@ class Almacen{
 	 * y falso en caso contrario
 	 */
 	boolean anyadir(Producto producto){
+
 		//COMPLETAR
 		 boolean correcto = false;
 		 if (existe(producto) == true) {
